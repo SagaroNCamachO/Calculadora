@@ -46,4 +46,14 @@ Una aplicación web visual e interactiva para gestionar y calcular todos los gas
 
 ¡Disfruta planificando tu matrimonio! 💒
 
-# Calculadora
+## 🚀 Despliegue
+
+Este proyecto está listo para desplegarse en Vercel. Consulta `GUIA_DEPLOY.md` para instrucciones detalladas paso a paso.
+
+### Despliegue rápido en Vercel:
+
+1. Conecta tu repositorio de GitHub con Vercel
+2. Vercel detectará automáticamente la configuración
+3. Haz clic en "Deploy" y ¡listo!
+
+El proyecto incluye `vercel.json` configurado para servir archivos estáticos correctamente.
